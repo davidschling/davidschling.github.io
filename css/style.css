@@ -130,9 +130,9 @@ footer div {
   main {
     grid-template-columns: 1fr;
     margin: 44px auto;
-    img {
-      height: 25vh;
-    }
+  }
+  img {
+    height: 25vh;
   }
 }
 
